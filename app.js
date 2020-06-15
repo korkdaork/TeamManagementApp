@@ -9,7 +9,7 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 //added ino order to create index.html
-const OUTPUT_DIR2 = path.resolve(__dirname, "TEAMMANAGEMENTAPP");
+const OUTPUT_DIR2 = path.resolve(__dirname, "");
 const outputPath2 = path.join(OUTPUT_DIR2, "index.html");
 
 const render = require("./lib/htmlRenderer");
